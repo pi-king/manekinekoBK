@@ -118,10 +118,10 @@ void handle_init(AppContextRef ctx) {
 	
 	layer_add_child(&window.layer, &neko.layer.layer);
 	
-	mouth_from_rect = GRect(62, 57, 12, 8);
-	mouth_to_rect = GRect(62, 65, 12, 8);
-	hand_from_rect = GRect(93, 35, 37, 27);
-	hand_to_rect = GRect(93, 50, 37, 27);
+	mouth_from_rect = GRect(66, 57, 12, 8);
+	mouth_to_rect = GRect(66, 65, 12, 8);
+	hand_from_rect = GRect(97, 35, 37, 27);
+	hand_to_rect = GRect(97, 50, 37, 27);
 	
 	GRect frame;  //holding frame
 	
