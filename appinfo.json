@@ -1,0 +1,42 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "5ec60d77-b5b3-4ee0-a0d5-ca3f94da7cea",
+    "appKeys": {},
+    "longName": "Manekineko black",
+    "versionCode": 1,
+    "shortName": "ManekinekoBK",
+    "companyName": "piking",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png-trans",
+                "name": "IMAGE_HAND",
+                "file": "images/hand.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_NEKO",
+                "file": "images/backgroundBK.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_LIP",
+                "file": "images/lip.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_MOUTH",
+                "file": "images/mouth.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/menu_icon.png"
+            }
+        ]
+    }
+}
